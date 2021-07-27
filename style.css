@@ -2,3 +2,97 @@ body{
     font-family: 'Uchen', serif;
     margin: 0;
 }
+h1{
+    color: rgb(223, 51, 108);
+    font-size: 35px;
+}
+.half-width{
+    width: 43%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 5%;  
+}
+#type{
+    padding-top: 100px;
+}
+.half-width img{
+    width: 100%;
+}
+#pic{
+    padding-top: 0px;
+}
+.button{
+    text-decoration: none;
+    padding: 2px ;
+    background-image: linear-gradient(45deg, crimson, tomato);
+    border-radius: 5px;
+    color: white;
+}
+#bio{
+    padding-top: 180px;
+}
+.top{
+    background-image:url("web-project/header-bg.png");
+    background-repeat: no-repeat;
+}
+#picture{
+    padding-top: 0px;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.center{
+    background-image: url("web-project/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.center img{
+    width: 100%;
+}
+.second-half-width{
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+}
+.second-half-width img{
+    width: 100%;
+}
+.third{
+    padding-top: 20px;
+    background-image: url("web-project/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+#latest{
+    text-align: center;
+    font-size: 35px;
+}
+#client{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 100px;
+}
+.end{
+    text-align: center;
+    background-image: url("web-project/footer-bg.png");
+    background-repeat: no-repeat;
+}
+#box{
+    background-image: linear-gradient(45deg, crimson, tomato);
+    border-radius: 15px;
+    padding: 20px;
+    margin-left: 200px;
+    margin-right: 200px;  
+}
+footer{
+    text-align: center;
+    color: dimgray;
+    padding-top: 300px;
+}
+#hur{
+    padding-bottom: 50px;
+}
+#hut{
+    padding-bottom: 50px;
+}
